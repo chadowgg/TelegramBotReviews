@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/migration/R__insert_users.sql" value="3aece083-fed5-4ad8-b125-5dbe18d640e4" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/migration/V1__initialization_of_the_user_table.sql" value="3aece083-fed5-4ad8-b125-5dbe18d640e4" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/migration/V2__ initializing_the_feedback_table.sql" value="3aece083-fed5-4ad8-b125-5dbe18d640e4" />
+  </component>
+</project>
